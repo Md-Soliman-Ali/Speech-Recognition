@@ -1,20 +1,21 @@
-First, install Visual Studio Code
+# Text to Speech 🔥 Recognition
 
-Download This Repository or create any folder on your hard disk
+1. First, install Visual Studio Code
 
-Open that repository using cmd
+2. Download This Repository or create any folder on your hard disk
 
-Type ( code . ) [ for opening Visual Studio Code ]
+3. Open that repository using cmd
 
-Press ctrl + ` [ for opening the terminal ]
+4. Type ( code . ) [ for opening Visual Studio Code ]
 
-Type ( npm init ) [ input any package name. example: text_to_speech ]
+5. Press ctrl + ` [ for opening the terminal ]
 
-Again type ( npm install gtts )
+6. Type ( npm init ) [ input any package name. example: text_to_speech ]
 
-Now you need to create a js extension file. Or download 
-index.js extension file
+7. Again type ( npm install gtts )
 
-Type ( node index ) [ in the terminal section. you will get Done status in your current terminal & you will get a ( speech.mp3 ) file in your directory
+8. Now you need to create a js extension file. Or download my index.js extension file
 
-Run the ( speech.mp3 ) file using any media player
+9. Type ( node index ) [ in the terminal section. you will get Done status & you will get a ( speech.mp3 ) file in your directory
+
+10. Run the ( speech.mp3 ) file using any media player
